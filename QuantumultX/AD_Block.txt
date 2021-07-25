@@ -1471,7 +1471,6 @@ DOMAIN-SUFFIX,appgift.sinaapp.com,REJECT
 DOMAIN-SUFFIX,appjiagu.com,REJECT
 DOMAIN-SUFFIX,applifier.com,REJECT
 DOMAIN-SUFFIX,applog.uc.cn,REJECT
-DOMAIN-SUFFIX,app-monitor.ele.me,REJECT
 DOMAIN-SUFFIX,appnext.com,REJECT
 DOMAIN-SUFFIX,appodealx.com,REJECT
 DOMAIN-SUFFIX,apppic.yingyongbei.com,REJECT
@@ -2180,7 +2179,6 @@ DOMAIN-SUFFIX,client.88tours.com,REJECT
 DOMAIN-SUFFIX,client.sidesearch.lycos.com,REJECT
 DOMAIN-SUFFIX,client.stats.yinyuetai.com,REJECT
 DOMAIN-SUFFIX,client.tenddata.com,REJECT
-DOMAIN-SUFFIX,client-api.ele.me,REJECT
 DOMAIN-SUFFIX,client-dmp.suishenyun.cn,REJECT
 DOMAIN-SUFFIX,cliushow.com,REJECT
 DOMAIN-SUFFIX,clk.dxpmedia.com,REJECT
@@ -3567,7 +3565,6 @@ DOMAIN-SUFFIX,govids.net,REJECT
 DOMAIN-SUFFIX,gp.jstv.com,REJECT
 DOMAIN-SUFFIX,gpydym.cn,REJECT
 DOMAIN-SUFFIX,gqswg.com,REJECT
-DOMAIN-SUFFIX,grand.ele.me,REJECT
 DOMAIN-SUFFIX,green.erne.co,REJECT
 DOMAIN-SUFFIX,greenhouseglobal.cn,REJECT
 DOMAIN-SUFFIX,greenxfs.down.123ch.cn,REJECT
@@ -5222,7 +5219,6 @@ DOMAIN-SUFFIX,mobileads.google.com,REJECT
 DOMAIN-SUFFIX,mobileads.msn.com,REJECT
 DOMAIN-SUFFIX,mobileapptracking.com,REJECT
 DOMAIN-SUFFIX,mobiledissector.com,REJECT
-DOMAIN-SUFFIX,mobile-pubt.ele.me,REJECT
 DOMAIN-SUFFIX,mobile-service.segment.com,REJECT
 DOMAIN-SUFFIX,mobilityware.com,REJECT
 DOMAIN-SUFFIX,mobiorg8.com,REJECT
@@ -5385,7 +5381,6 @@ DOMAIN-SUFFIX,news-log.51y5.net,REJECT
 DOMAIN-SUFFIX,newspage.xilu.com,REJECT
 DOMAIN-SUFFIX,newspush.sinajs.cn,REJECT
 DOMAIN-SUFFIX,newswifiapi.dfshurufa.com,REJECT
-DOMAIN-SUFFIX,newton-api.ele.me,REJECT
 DOMAIN-SUFFIX,nexage.com,REJECT
 DOMAIN-SUFFIX,nexstep.zdworks.com,REJECT
 DOMAIN-SUFFIX,nextcps.com,REJECT
@@ -9362,7 +9357,6 @@ DOMAIN-SUFFIX,zjuwjdc.com,REJECT
 DOMAIN-SUFFIX,zszrb.com,REJECT
 DOMAIN-SUFFIX,zz2.hslyqs.com,REJECT
 DOMAIN-SUFFIX,log.snssdk.com,REJECT
-DOMAIN-SUFFIX,log.star.ele.me,REJECT
 DOMAIN-SUFFIX,log.ys7.com,REJECT
 DOMAIN-SUFFIX,report.jpush.cn,REJECT
 DOMAIN-SUFFIX,static.jpush.cn,REJECT
